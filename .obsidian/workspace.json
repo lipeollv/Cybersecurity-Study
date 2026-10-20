@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
+                "file": "MAN-IN-THE-MIDDLE (MITM)/MAN-IN-THE-MIDDLE (MITM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATAQUE DE SPOOFING"
+              "title": "MAN-IN-THE-MIDDLE (MITM)"
             }
           }
         ]
@@ -189,13 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35dabfd371d19a32",
+  "active": "13261f5bb59346ea",
   "lastOpenFiles": [
-    "ATAQUES SNIFFING (MITM)",
+    "ATAQUES SNIFFING/ATAQUE SNIFFING.md",
+    "MAN-IN-THE-MIDDLE (MITM)/MAN-IN-THE-MIDDLE (MITM).md",
+    "MAN-IN-THE-MIDDLE (MITM)",
+    "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
+    "ATAQUES SNIFFING",
     "ATAQUES DOS_DDOS/ATAQUE SMURF.md",
     "ATAQUES DOS_DDOS/ICMP FLOOD.md",
     "ATAQUES DOS_DDOS/TCP FLOOD.md",
-    "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
     "ATAQUES SPOOFING",
     "Sem título.md",
     "README.md",
