@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATAQUES/ATAQUE SMURF.md",
+                "file": "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATAQUE SMURF"
+              "title": "ATAQUE DE SPOOFING"
             }
           }
         ]
@@ -189,13 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13261f5bb59346ea",
+  "active": "35dabfd371d19a32",
   "lastOpenFiles": [
-    "ATAQUES/ICMP FLOOD.md",
-    "ATAQUES/TCP FLOOD.md",
-    "ATAQUES/ATAQUE SMURF.md",
+    "ATAQUES SNIFFING (MITM)",
+    "ATAQUES DOS_DDOS/ATAQUE SMURF.md",
+    "ATAQUES DOS_DDOS/ICMP FLOOD.md",
+    "ATAQUES DOS_DDOS/TCP FLOOD.md",
+    "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
+    "ATAQUES SPOOFING",
     "Sem título.md",
     "README.md",
-    "ATAQUES"
+    "ATAQUES DOS_DDOS"
   ]
 }

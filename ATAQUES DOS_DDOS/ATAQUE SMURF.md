@@ -6,10 +6,10 @@ o invasor pega o I.P do alvo, usando como seu endereço principal. envia uma req
 . TIPOS DE ATAQUES .
 
  **SMURF:**
-o invasor se disfarça usando o I.P do alvo, protegendo seus dados e identificação e usando o do alvo para o ataque.
+`o invasor se disfarça usando o I.P do alvo, protegendo seus dados e identificação e usando o do alvo para o ataque.`
 
 
 . TIPOS DE DEFESAS .
 
-desativar os endereços de IP de broadcast em cada roteador e firewall de rede
+`desativar os endereços de IP de broadcast em cada roteador e firewall de rede`
 

@@ -5,9 +5,9 @@ o invasor envia requisições de diagnósticos da rede para o servidor, então o
 . TIPOS DE ATAQUES .
 
  ***Ataque Distribuído de Negação de Serviço (DDOS):***
-um ataque mais sofisticado com botnet, tornando quase impossível de rastrear a origem do ataque. o invasor também pode usar ferramentas para cada bot esconder ou usar um IP mascarado.
+`um ataque mais sofisticado com botnet, tornando quase impossível de rastrear a origem do ataque. o invasor também pode usar ferramentas para cada bot esconder ou usar um IP mascarado.`
 
 
 . TIPOS DE DEFESAS .
 
-basicamente desativando a opção de ICMP, o servidor vira não responsivo às solicitações de ping.
+`basicamente desativando a opção de ICMP, o servidor vira não responsivo às solicitações de ping.`
