@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAN-IN-THE-MIDDLE (MITM)/MAN-IN-THE-MIDDLE (MITM).md",
+                "file": "ATAQUES DOS_DDOS/TCP FLOOD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAN-IN-THE-MIDDLE (MITM)"
+              "title": "TCP FLOOD"
             }
           }
         ]
@@ -183,18 +183,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "13261f5bb59346ea",
   "lastOpenFiles": [
-    "ATAQUES SNIFFING/ATAQUE SNIFFING.md",
+    "ATAQUES DOS_DDOS/ICMP FLOOD.md",
+    "ATAQUES DOS_DDOS/ATAQUE SMURF.md",
+    "BASH/Gerenciamento de Processos.md",
+    "BASH/Permissões e Usuários.md",
+    "BASH/Streams e Redirecionamento.md",
+    "BASH/Estrutura de Diretórios.md",
+    "BASH/COMANDOS TERMINAL.md",
+    "BASH/COMANDOS BASH.md",
     "MAN-IN-THE-MIDDLE (MITM)/MAN-IN-THE-MIDDLE (MITM).md",
+    "BASH",
+    "ATAQUES SNIFFING/ATAQUE SNIFFING.md",
     "MAN-IN-THE-MIDDLE (MITM)",
     "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
     "ATAQUES SNIFFING",
-    "ATAQUES DOS_DDOS/ATAQUE SMURF.md",
-    "ATAQUES DOS_DDOS/ICMP FLOOD.md",
     "ATAQUES DOS_DDOS/TCP FLOOD.md",
     "ATAQUES SPOOFING",
     "Sem título.md",
