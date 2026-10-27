@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATAQUES DOS_DDOS/ATAQUE SMURF.md",
+                "file": "ATAQUES DOS_DDOS/TCP FLOOD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATAQUE SMURF"
+              "title": "TCP FLOOD"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -179,33 +179,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "13261f5bb59346ea",
   "lastOpenFiles": [
     "ATAQUES DOS_DDOS/ICMP FLOOD.md",
-    "ATAQUES DOS_DDOS/TCP FLOOD.md",
-    "ATAQUES DOS_DDOS/ATAQUE SMURF.md",
-    "BASH/Gerenciamento de Processos.md",
+    "ATAQUES DOS_DDOS/SMURF.md",
+    "MAN-IN-THE-MIDDLE (MITM)/MAN-IN-THE-MIDDLE (MITM).md",
+    "ATAQUES SPOOFING/SPOOFING.md",
+    "ATAQUES SNIFFING/SNIFFING.md",
+    "ATAQUES PHISHING/PHISHING.md",
+    "ATAQUES PHISHING",
     "BASH/Permissões e Usuários.md",
     "BASH/Streams e Redirecionamento.md",
-    "BASH/Estrutura de Diretórios.md",
+    "BASH/Gerenciamento de Processos.md",
     "BASH/COMANDOS TERMINAL.md",
+    "BASH/Estrutura de Diretórios.md",
     "BASH/COMANDOS BASH.md",
-    "MAN-IN-THE-MIDDLE (MITM)/MAN-IN-THE-MIDDLE (MITM).md",
     "BASH",
-    "ATAQUES SNIFFING/ATAQUE SNIFFING.md",
     "MAN-IN-THE-MIDDLE (MITM)",
-    "ATAQUES SPOOFING/ATAQUE DE SPOOFING.md",
     "ATAQUES SNIFFING",
+    "ATAQUES DOS_DDOS/TCP FLOOD.md",
     "ATAQUES SPOOFING",
     "Sem título.md",
     "README.md",
