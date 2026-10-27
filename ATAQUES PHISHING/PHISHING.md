@@ -1,0 +1,1 @@
+- é um tipo de engenharia social, que faz o alvo fazer alguma ação para poder invadir ou extrair informações.
