@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP TOP 10/7. Identification and Authentication Failures.md",
+                "file": "OWASP TOP 10/8. Software and Data Integrity Failures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Identification and Authentication Failures"
+              "title": "8. Software and Data Integrity Failures"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "13261f5bb59346ea",
   "lastOpenFiles": [
-    "OWASP TOP 10/6. Vulnerable and Outdated Components.md",
     "OWASP TOP 10/7. Identification and Authentication Failures.md",
+    "OWASP TOP 10/8. Software and Data Integrity Failures.md",
+    "OWASP TOP 10/6. Vulnerable and Outdated Components.md",
     "OWASP TOP 10/4. Insecure Design.md",
     "OWASP TOP 10/5. Security Misconfiguration.md",
     "OWASP TOP 10/1. Broken Acess Control.md",
