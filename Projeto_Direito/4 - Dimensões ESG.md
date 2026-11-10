@@ -1,17 +1,13 @@
 Ambiental:
- Como 99% do projeto seria pensando em rodar em celulares, isso traria benefícios como a redução de uso de papel (apostilas, cadernos de exercícios) digitalizando toda a jorgana de aprendizado. Todo problema de desempenho será levado em consideração .
+ Como 99% do projeto seria pensando em rodar em celulares, isso traria benefícios como a redução de uso de papel (apostilas, cadernos de exercícios) digitalizando toda a jorgana de aprendizado. Todo problema de desempenho será tratado na otimização no código para consumir menos processamento, bateria, etc.
 
 Social:
- O app foi projetado especificamente para rodar em dispositivos móveis de baixo desempenho, quebrando várias barreiras ecônomias, claro que ainda existem dificuldade no meio disso, porém o celular mais simples poderia rodar a aplicação. Como a maioria das crianças poderiam ter acesso ao conteúdo, isso influênciaria o pensamento lógico e computacional robótico para crianças que provavelmente não teriam acesso a isso em redes públicas.
+ O app foi projetado especificamente para rodar em dispositivos móveis de baixo desempenho, quebrando várias barreiras ecônomias, claro que ainda existem dificuldade no meio disso, porém o celular mais simples poderia rodar a aplicação sem menor difilculdade. Como a maioria das crianças poderiam ter acesso ao conteúdo, isso influênciaria o pensamento lógico e computacional robótico para crianças que provavelmente não teriam acesso a isso em redes públicas.
 
 Governança:
  Como o painel de pais e escolas lida com dados de menores de idades e pessoas sensíveis, hávera políticas de privacidade estritas de governança de dados (LGPD), garantindo toda seguranças de dados pessoas sejam protegidos.
 
  Também toda manutenção e suporte com bugs, assistência de uso, melhorias ou uso indevido, serão prioridades de todos os tipos de usuários ou pessoas envolvidas, como as crianças, pais, professores, rede de ensino, etc. Toda manutenção ou mudanças do projeto seriam organizadas e alinhadas com diretrizes pedagógicas de instituições públicas parceiras para ajudar a melhorar e fiscalizar o uso correto do aplicativo.
  
- LGPD (Lei Geral de Proteção de Dados — Lei nº 13.709/2018);
- Marco Legal das Startups e do Empreendedorismo Inovador (Lei Complementar nº 182/2021);
- Estatuto da Criança e do Adolescente — ECA (Lei nº 8.069/1990);
- LDB — Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996);
  
  
