@@ -10,4 +10,4 @@ Como funcionará:
  As crianças teram um aplicativo gamificado e acessível em quase todos os celulares. Aplicanto na prática toda a teoria matemática aprendida na escola em kit's de hardwares virtuais e desafios sobre a atividade. Os pais e professores acompanham o progresso e o engajamento através de um painel de monitoramento
 
 Contribuição específica da ideia:
- Desenvolvimento de software . A grande maioria das funcionalidades e lógicas aplicadas no código e no aplicativo em sí vem de conceitos explicados e fundamentados na faculdade, junto com a documentação e estratégia de apresentação.
+ Desenvolvimento do software alinhado com a otimização para rodar na maioria dos dispositos. Uma estrutura de design focado em ser fácil de aprender a usar e interagir, fazendo o usuário ter mais vontade de avançar conforme vai usando. Um 
