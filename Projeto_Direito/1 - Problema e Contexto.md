@@ -9,4 +9,6 @@ Quem é afetado:
  Começa com uma criança, porém esse problema afeta toda a estrutura da sociedade que não tem visão nenhuma de gostos e vontades próprias, acabando tornando a sociedade, economia e mercado de trabalho muito desbalanceado. Enquanto crianças que tiveram essa estrutura e incentivo, conseguem focar em uma área acadêmica e profissional melhor, o restante que não teve o mesmo privilégio só acompanha o ritmo de todos.
 
 Evidências:
- Nosso próprio presente, onde olhamos existe uma divergência muito grande de 
+ Nosso próprio presente, onde olhamos existe uma divergência muito grande de níveis de aprendizados diferentes de crianças que receberam esse incentivo e tiveram a estrutura suficiente e crianças que não receberam. 
+
+fonte: https://porvir.org/escolas-futuro-e-desigualdade-tecnologica/
