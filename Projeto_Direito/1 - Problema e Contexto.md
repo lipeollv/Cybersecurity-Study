@@ -6,9 +6,10 @@ Onde ocorre:
  Escolas públicas sem estruturas suficiente para abraçar a maioria das crianças. Como são milhões de vidas e gostos diferentes, é quase que impossível abraçar todos com pouco recurso. 
 
 Quem é afetado:
- Começa com uma criança, porém esse problema afeta toda a estrutura da sociedade, acabando tornando a sociedade, economia e mercado de trabalho instável e perigoso. Enquanto crianças que tiveram essa estrutura e incentivo, conseguem focar em uma área acadêmica e profissional melhor, o restante que não teve o mesmo privilégio só acompanha o ritmo de todos.
+ Começa com uma criança, porém esse problema afeta toda a estrutura da sociedade, acabando tornando a sociedade, economia e mercado de trabalho instável e perigoso. A escassez de infraestrutura prática de tecnologia nas escolas públicas limita o desenvolvimento do pensamento computacional na infância, gerando uma barreira de entrada precoce para carreiras de engenharia e tecnologia no mercado global.
 
 Evidências:
- Nosso próprio presente, onde olhamos existe uma divergência muito grande de níveis de aprendizados diferentes de crianças que receberam esse incentivo e tiveram a estrutura suficiente e crianças que não receberam. 
+ Um trecho claro da matéria de Débora Garofalo:
+  "Para que a tecnologia realmente beneficie os estudantes, seu uso precisa ser intencional e cuidadosamente planejado. Isso começa com um alinhamento claro ao currículo, orientado por perguntas pedagógicas essenciais: o que os alunos precisam aprender? Como a tecnologia pode apoiar esse processo? Quais atividades favorecem investigação, criação e resolução de problemas? A tecnologia deve ser escolhida não pela novidade, mas pela capacidade de aprofundar a aprendizagem."
 
 fonte: https://porvir.org/escolas-futuro-e-desigualdade-tecnologica/
