@@ -3,7 +3,10 @@ O que será proposto:
  
  O livro: Organização Estruturada de Computadores - Andrew Stuart Tanenbaum explica que a maior base da engenharia da computação está na matemática pura, mas um estudante nunca tem um contato mínimo com o hardware, ele é ensinado a interagir apenas com representações lógicas e matemáticas.
 
+ Como faremos isso?
+ Um aplicativo mobile gamificado focado no ensino de lógica, programação e eletrônica para crianças, integrado a kits físicos de baixo custo ou online.
+
 Como funcionará: 
- 
+ As crianças teram um aplicativo gamificado e acessível em quase todos os celulares. Aplicanto na prática toda a teoria matemática aprendida na escola em kit's de hardwares virtuais e desafios sobre
 
 Contribuição específica da ideia:
