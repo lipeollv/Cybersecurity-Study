@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto_Direito/2 - Solução de Engenharia.md",
+                "file": "Projeto_Direito/3 - Organizações e Pessoas Envolvidas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Solução de Engenharia"
+              "title": "3 - Organizações e Pessoas Envolvidas"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "13261f5bb59346ea",
   "lastOpenFiles": [
-    "Projeto_Direito/1 - Problema e Contexto.md",
     "Projeto_Direito/2 - Solução de Engenharia.md",
+    "Projeto_Direito/3 - Organizações e Pessoas Envolvidas.md",
+    "Projeto_Direito/1 - Problema e Contexto.md",
     "OWASP TOP 10/10. Server-Side Request Forgery.md",
     "Projeto_Direito",
     "OWASP TOP 10/9. Security Logging and Monitoring Failures.md",
@@ -219,7 +220,6 @@
     "BASH/Permissões e Usuários.md",
     "BASH/Streams e Redirecionamento.md",
     "BASH/Gerenciamento de Processos.md",
-    "BASH/COMANDOS TERMINAL.md",
     "BASH",
     "MAN-IN-THE-MIDDLE (MITM)",
     "ATAQUES SNIFFING",
