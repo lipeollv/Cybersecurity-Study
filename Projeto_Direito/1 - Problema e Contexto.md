@@ -10,6 +10,6 @@ Quem é afetado:
 
 Evidências:
  Um trecho claro da matéria de Débora Garofalo:
-  "Para que a tecnologia realmente beneficie os estudantes, seu uso precisa ser intencional e cuidadosamente planejado. Isso começa com um alinhamento claro ao currículo, orientado por perguntas pedagógicas essenciais: o que os alunos precisam aprender? Como a tecnologia pode apoiar esse processo? Quais atividades favorecem investigação, criação e resolução de problemas? A tecnologia deve ser escolhida não pela novidade, mas pela capacidade de aprofundar a aprendizagem."
+  "No entanto, ao mesmo tempo em que essas ferramentas avançam, o país enfrenta desafios estruturais importantes: [desigualdade de acesso à internet](https://porvir.org/bncc-computacao-pratica-real/), escolas com infraestrutura insuficiente, dificuldades de manutenção e uma demanda crescente por formação docente para o uso efetivo das tecnologias."
 
 fonte: https://porvir.org/escolas-futuro-e-desigualdade-tecnologica/
