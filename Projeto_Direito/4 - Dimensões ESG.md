@@ -1,5 +1,5 @@
 Ambiental:
- Como 99% do projeto seria pensando em rodar em celulares, isso traria benefícios como a redução de uso de papel (apostilas, cadernos de exercícios) digitalizando toda a jorgana de aprendizado. Todo problema de desempenho será tratado na otimização no código para consumir menos processamento, bateria, etc.
+ Como 99% do projeto seria pensando em rodar em celulares, isso traria benefícios como a redução de uso de papel (apostilas, cadernos de exercícios) digitalizando toda a jorgana de aprendizado. Todo problema de desempenho será tratado na otimização no código para consumir menos processamento, bateria, etc. Ao hardware e aos dispositivos, o projeto prevê a otimização de código para reduzir o consumo energético e o desgaste prematuro da bateria, além de incentivar o uso de componentes de baixo impacto e alta durabilidade nos kits físicos para reduzir o descarte de lixo eletrônico.
 
 Social:
  O app foi projetado especificamente para rodar em dispositivos móveis de baixo desempenho, quebrando várias barreiras ecônomias, claro que ainda existem dificuldade no meio disso, porém o celular mais simples poderia rodar a aplicação sem menor difilculdade. Como a maioria das crianças poderiam ter acesso ao conteúdo, isso influênciaria o pensamento lógico e computacional robótico para crianças que provavelmente não teriam acesso a isso em redes públicas.
