@@ -7,6 +7,6 @@ O que será proposto:
  Um aplicativo mobile gamificado focado no ensino de lógica, programação e eletrônica para crianças, integrado a kits físicos de baixo custo ou online.
 
 Como funcionará: 
- As crianças teram um aplicativo gamificado e acessível em quase todos os celulares. Aplicanto na prática toda a teoria matemática aprendida na escola em kit's de hardwares virtuais e desafios sobre
+ As crianças teram um aplicativo gamificado e acessível em quase todos os celulares. Aplicanto na prática toda a teoria matemática aprendida na escola em kit's de hardwares virtuais e desafios sobre a atividade. Os pais e professores acompanham o progresso e o engajamento através de um painel de monitoramento
 
 Contribuição específica da ideia:
