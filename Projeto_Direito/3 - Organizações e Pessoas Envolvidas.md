@@ -5,4 +5,4 @@ Organização responsável:
  Toda a iniciativa seria do desenvolvimento tecnológico educacional do grupo com uma parceria colaborativa com instituições da rede pública, múnicipal ou estadual, garantindo toda a implementação ao ensino público.
 
 Quem é afetado indiretamente:
- O mercado de tecnologia e engenharia (futuro), que passa a contar a longo prazo, com um público 
+ O mercado de tecnologia e engenharia (futuro), que passa a contar a longo prazo, com um público maior e mais capacitado vindo da rede pública.
