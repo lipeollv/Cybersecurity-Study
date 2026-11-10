@@ -6,6 +6,7 @@ Onde ocorre:
  Escolas públicas sem estruturas suficiente para abraçar a maioria das crianças. Como são milhões de vidas e gostos diferentes, é quase que impossível abraçar todos com poucos professores.
 
 Quem é afetado:
- Começa com uma criança, porém esse problema afeta toda a estrutura da sociedade que não tem visão nenhuma de gostos e vontades próprias. 
+ Começa com uma criança, porém esse problema afeta toda a estrutura da sociedade que não tem visão nenhuma de gostos e vontades próprias, acabando tornando a sociedade, economia e mercado de trabalho muito desbalanceado. Enquanto crianças que tiveram essa estrutura e incentivo, conseguem focar em uma área acadêmica e profissional melhor, o restante que não teve o mesmo privilégio só acompanha o ritmo de todos.
 
 Evidências:
+ Nosso próprio presente, onde olhamos existe uma divergência muito grande de 
