@@ -31,4 +31,12 @@ A falta de estrutura em escolas públicas:
  ``Como já esperado, as escolas não possuem infraestrutura suficiênte para colocar de forma mais sofisticada algum tipo de aula mais prática para influênciar a curiosidade e aprendizado dos alunos em temas de tecnologias de forma ativa, fazendo o uso do celular como ferramenta de aprendizado ser priorizado.``
 
 Kits opcionais e Virtuais:
- 
+ ``Decidimos implementar um simulador de circuito/hardware interativo dentro do próprio aplicativo por imaginar que tera escolas que não teram acesso e recursos suficientes para demonstrar as taréfas de forma prática.``
+
+
+ - Limites de investigação
+Entrevistas limitadas:
+ ``A entrevista cobriu um número restrito de professores.``
+
+Falta de testes direto com crianças:
+ ``Conforme as restrições de proteção a públicos vulneráveis e conformidade com a LGPD, não foram realizados testes com o príncipal público alvo.``
