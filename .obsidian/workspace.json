@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto_Direito/REGISTRO DE DECISÕES.md",
+                "file": "Projeto_Direito/Escolhas difíceis e riscos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REGISTRO DE DECISÕES"
+              "title": "Escolhas difíceis e riscos"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "13261f5bb59346ea",
   "lastOpenFiles": [
-    "Projeto_Direito/Investigação da Realidade.md",
     "Projeto_Direito/REGISTRO DE DECISÕES.md",
+    "Projeto_Direito/Escolhas difíceis e riscos.md",
+    "Projeto_Direito/Investigação da Realidade.md",
     "Projeto_Direito/8 - Resultados e indicadores.md",
     "Projeto_Direito/1 - Problema e Contexto.md",
     "Projeto_Direito/2 - Solução de Engenharia.md",
@@ -218,7 +219,6 @@
     "ATAQUES SPOOFING/SPOOFING.md",
     "Sem título.md",
     "OWASP TOP 10",
-    "TESTE DE SEGURANÇA.md",
     "ATAQUES PHISHING",
     "BASH",
     "MAN-IN-THE-MIDDLE (MITM)",
