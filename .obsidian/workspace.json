@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projeto_Direito/Investigação da Realidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Investigação da Realidade"
             }
           }
         ]
@@ -189,19 +189,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35dabfd371d19a32",
+  "active": "13261f5bb59346ea",
   "lastOpenFiles": [
     "Projeto_Direito/Escolhas difíceis e riscos.md",
+    "Projeto_Direito/8 - Resultados e indicadores.md",
+    "Projeto_Direito/7 - Viabilidade.md",
+    "Projeto_Direito/6 - Fundamentosjurídicos e éticos.md",
+    "Projeto_Direito/5 - Responsabilidadesocial corporativa.md",
+    "Projeto_Direito/4 - Dimensões ESG.md",
+    "Projeto_Direito/3 - Organizações e Pessoas Envolvidas.md",
+    "Projeto_Direito/2 - Solução de Engenharia.md",
+    "README.md",
     "Projeto_Direito/Investigação da Realidade.md",
     "Projeto_Direito/REGISTRO DE DECISÕES.md",
-    "Projeto_Direito/8 - Resultados e indicadores.md",
     "Projeto_Direito/1 - Problema e Contexto.md",
-    "Projeto_Direito/2 - Solução de Engenharia.md",
-    "Projeto_Direito/3 - Organizações e Pessoas Envolvidas.md",
-    "Projeto_Direito/4 - Dimensões ESG.md",
-    "Projeto_Direito/5 - Responsabilidadesocial corporativa.md",
-    "Projeto_Direito/6 - Fundamentosjurídicos e éticos.md",
-    "Projeto_Direito/7 - Viabilidade.md",
     "OWASP TOP 10/1. Broken Acess Control.md",
     "OWASP TOP 10/6. Vulnerable and Outdated Components.md",
     "OWASP TOP 10/5. Security Misconfiguration.md",
@@ -213,7 +214,6 @@
     "OWASP TOP 10/8. Software and Data Integrity Failures.md",
     "OWASP TOP 10/7. Identification and Authentication Failures.md",
     "OWASP TOP 10/2. Cryptographic Failures.md",
-    "README.md",
     "ATAQUES PHISHING/PHISHING.md",
     "ATAQUES SNIFFING/SNIFFING.md",
     "ATAQUES SPOOFING/SPOOFING.md",
