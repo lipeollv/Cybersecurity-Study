@@ -6,8 +6,10 @@ Objeto de investigação:
 Objetivo:
  `Validar a visão sobre como está a infrestrutura das escola publicas para conseguir construir um projeto grande de informática ou laboratórios de computadores e hardwares. Com essa dificuldade no sistema, o uso de celulares, além de ser mais acessível, é muito mais viavel por ser mais fácil de distribuir.`
 
+
 - Como realizamos a investigação e quem participou
-
 Metodologia:
- Análise de documentos públicos de acesso a TIC nas escolas, comprovando a necessidade e a solução possível.
+ ``Análise de documentos públicos de acesso a TIC nas escolas, comprovando a necessidade e a solução possível.``
 
+Participantes:
+ Pesquisa documental: ``Dados consolidados do Censo Escolar e relatórios de acesso digital``
